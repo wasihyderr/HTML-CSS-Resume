@@ -1,0 +1,357 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto-flex: "Roboto Flex";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-peru: #e89035;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
+
+.contact {
+  position: absolute;
+  top: 164px;
+  left: 12px;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+}
+.locationpin-icon {
+  position: absolute;
+  top: 200px;
+  left: 12px;
+  width: 13.2px;
+  height: 16.5px;
+}
+.a-23-johar-town,
+.l201185lhrnuedupk,
+.wasicom,
+.xxxxx {
+  position: absolute;
+  top: 200px;
+  left: 32px;
+  display: inline-block;
+  width: 117px;
+}
+.l201185lhrnuedupk,
+.wasicom,
+.xxxxx {
+  top: 244px;
+}
+.l201185lhrnuedupk,
+.wasicom {
+  top: 281px;
+  font-size: var(--font-size-xs);
+  width: 152px;
+}
+.wasicom {
+  top: 315px;
+}
+.vector-icon {
+  height: 2%;
+  width: 7.14%;
+  top: 45%;
+  right: 86.22%;
+  bottom: 53%;
+  left: 6.63%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.mailicon,
+.phoneicon,
+.vector-icon {
+  position: absolute;
+  max-height: 100%;
+}
+.mailicon {
+  height: 2.43%;
+  width: 8.67%;
+  top: 39.86%;
+  right: 86.22%;
+  bottom: 57.71%;
+  left: 5.1%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.phoneicon {
+  height: 2.14%;
+  top: 35%;
+  bottom: 62.86%;
+  left: 11px;
+  width: 15px;
+}
+.contactbar {
+  position: absolute;
+  top: 142px;
+  left: 399px;
+  background-color: #fe7608;
+  width: 196px;
+  height: 700px;
+  overflow: hidden;
+}
+.header-child {
+  position: absolute;
+  top: 0;
+  left: 358px;
+  width: 237px;
+  height: 142px;
+}
+.wasi {
+  margin: 0;
+}
+.wasi-haider {
+  position: absolute;
+  top: 54px;
+  left: 53px;
+  font-weight: 800;
+}
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #1f2a68;
+  width: 595px;
+  height: 142px;
+  overflow: hidden;
+  font-size: 28px;
+  color: #dd7d3c;
+}
+.profilepicture-icon {
+  position: absolute;
+  top: 77px;
+  left: 406px;
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+}
+.experience {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  display: inline-block;
+  width: 96px;
+  height: 17.47px;
+}
+.junior-unity-developer {
+  top: 32.45px;
+  width: 221px;
+  height: 13.31px;
+}
+.junior-unity-developer,
+.present,
+.present1,
+.uiux-designer- {
+  position: absolute;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.present {
+  top: 60.73px;
+  font-size: var(--font-size-3xs);
+  width: 98px;
+  height: 9.98px;
+}
+.present1,
+.uiux-designer- {
+  top: 85.69px;
+  width: 163px;
+  height: 13.31px;
+}
+.present1 {
+  top: 113.98px;
+  font-size: var(--font-size-3xs);
+  width: 98px;
+  height: 9.98px;
+}
+.present2,
+.professional-sleeper-,
+.spearheaded-operations-at-container {
+  position: absolute;
+  top: 138.94px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 175px;
+  height: 13.31px;
+}
+.present2,
+.spearheaded-operations-at-container {
+  top: 167.23px;
+  font-size: var(--font-size-3xs);
+  width: 98px;
+  height: 9.98px;
+}
+.spearheaded-operations-at-container {
+  top: 192.18px;
+  width: 285px;
+  height: 19.97px;
+}
+.line {
+  position: absolute;
+  top: 227.13px;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-peru);
+  width: 318px;
+  height: 3.33px;
+}
+.divisional-model-college,
+.education {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.education {
+  top: 245.43px;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  width: 87px;
+  height: 17.47px;
+}
+.divisional-model-college {
+  top: 277.88px;
+  font-weight: 600;
+  width: 238px;
+  height: 13.31px;
+}
+.line1,
+.o-levels-and {
+  position: absolute;
+  left: 0;
+}
+.o-levels-and {
+  top: 306.16px;
+  font-size: var(--font-size-3xs);
+  font-weight: 600;
+  display: inline-block;
+  width: 195px;
+  height: 9.98px;
+}
+.line1 {
+  top: 331.12px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-peru);
+  width: 318px;
+  height: 3.33px;
+}
+.happening-campus-event,
+.projects {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.projects {
+  top: 349.43px;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  width: 71px;
+  height: 17.47px;
+}
+.happening-campus-event {
+  top: 381.87px;
+  font-weight: 600;
+  width: 201px;
+  height: 13.31px;
+}
+.uiux-design {
+  position: absolute;
+  top: 410.16px;
+  left: 0;
+  font-size: var(--font-size-3xs);
+  width: 155px;
+  height: 9.98px;
+}
+.baja-brigade-3d,
+.uiux-design,
+.uiux-design1 {
+  font-weight: 600;
+  display: inline-block;
+}
+.baja-brigade-3d {
+  position: absolute;
+  top: 435.12px;
+  left: 0;
+  width: 104px;
+  height: 13.31px;
+}
+.uiux-design1 {
+  top: 463.41px;
+  font-size: var(--font-size-3xs);
+  width: 155px;
+  height: 9.98px;
+}
+.line2,
+.skills,
+.uiux-design1 {
+  position: absolute;
+  left: 0;
+}
+.line2 {
+  top: 488.36px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-peru);
+  width: 318px;
+  height: 3.33px;
+}
+.skills {
+  top: 506.67px;
+  font-size: var(--font-size-lg);
+  font-weight: 800;
+  display: inline-block;
+  width: 47px;
+  height: 17.47px;
+}
+.game-development,
+.uiux-design2,
+.web-design {
+  position: absolute;
+  top: 539.11px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 85px;
+  height: 13.31px;
+}
+.game-development,
+.web-design {
+  top: 567.4px;
+  width: 127px;
+}
+.web-design {
+  top: 595.69px;
+  width: 78px;
+}
+.mainspace {
+  position: absolute;
+  top: 162px;
+  left: 39px;
+  width: 318px;
+  height: 609px;
+  overflow: hidden;
+}
+.resume {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 842px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto-flex);
+}
